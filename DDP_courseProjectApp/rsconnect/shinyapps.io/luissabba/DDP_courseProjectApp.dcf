@@ -1,0 +1,12 @@
+name: DDP_courseProjectApp
+title: DDP_courseProjectApp
+username:
+account: luissabba
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2961826
+bundleId: 3712898
+url: https://luissabba.shinyapps.io/DDP_courseProjectApp/
+when: 1602079308.97161
+asMultiple: FALSE
+asStatic: FALSE
